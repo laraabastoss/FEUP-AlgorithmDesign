@@ -16,7 +16,7 @@ Implementation of Flow Algorithms on a Train Railway modeled as a Flow Network.
 
 ### Project 2 -  (Grade: 15.88/20)
 
-Multiple Hgieuristics solutions for the Traveling Salesman Problem.
+Multiple Heuristics solutions for the Traveling Salesman Problem.
 
 #### Developed by:
 
